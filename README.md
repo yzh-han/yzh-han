@@ -1,4 +1,6 @@
-## Hi there 👋
+<center>
+  [about me](https://yzh-han.github.io/)
+</center>
 
 <!--
 **yzh-han/yzh-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
