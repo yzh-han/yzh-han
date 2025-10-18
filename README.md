@@ -1,6 +1,8 @@
-<center>
-  [about me](https://yzh-han.github.io/)
-</center>
+<div align="center">
+  <samp>
+    <a href="https://yzh-han.github.io/">about me</a>
+  </samp>
+</div>
 
 <!--
 **yzh-han/yzh-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
